@@ -1,0 +1,47 @@
+
+#loja img{
+    height: 560px;
+    width: 550px;
+    margin-right: 20px;
+}
+#sobre{
+    margin-top: 15px;
+    margin-left: 80px;
+}
+#console{
+    display: inline;
+}
+#ni{
+    height: 40px;
+    width: 120px;
+}
+#ps{
+    height: 50px;
+    width: 80px;
+}
+#xb{
+    height: 50px;
+    width: 80px;
+}
+ul{
+    margin-top: 10px;
+}
+header .container,
+section{
+    display: flex;
+}
+#sobre h2{
+    font-size: 35px;
+    margin-bottom: 0;
+}
+#sobre p{
+    margin-top: 5px;
+}
+section{
+    font-family: "Bungee", sans-serif;
+    color: rgb(18, 39, 97);
+}
+#consoles
+{
+    margin-left: 20px;
+}
